@@ -3,9 +3,10 @@ package lista1.exercicio_6;
 import java.util.Scanner;
 
 public class Termometro {
+    Scanner teclado = new Scanner(System.in);
 
     public void conversorCelsius() {
-        Scanner teclado = new Scanner(System.in);
+
         double valor;
         String tipo;
         System.out.println("Você quer converter de Celsius para Fahrenheit ou Kelvin:");

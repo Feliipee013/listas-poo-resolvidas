@@ -24,6 +24,7 @@ public class Pedagio {
                 System.out.println("Valor da tarifa a ser paga:R$ 20,00");
                 break;
             default:
+                System.out.println("Esse tipo de valor não existe!");
                 break;
         }
     }

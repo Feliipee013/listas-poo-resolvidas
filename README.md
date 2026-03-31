@@ -32,7 +32,7 @@ As listas resolvidas neste repositório incluem temas como:
 ## 📂 Estrutura do Repositório
 
 ```
-📁 listas/
+📁 src(listas)/
    ├── lista1/
    ├── lista2/
    ├── lista3/
@@ -79,7 +79,7 @@ Se você quiser sugerir melhorias ou adicionar novas resoluções:
 ## 👨‍🏫 Autores
 
 - João Filipe Peixoto de Carvalho  
-- Felipe Taveira  
+- Felipe Taveira Viana
 
 ---
 

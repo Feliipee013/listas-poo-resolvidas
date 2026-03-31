@@ -7,10 +7,12 @@ public class Main {
         String senha3 = "0123456789";
         String senha4 = "0123456789a";
 
+
         Autenticador autenticador = new Autenticador();
         autenticador.validar(senha1);
         autenticador.validar(senha2);
         autenticador.validar(senha3);
         autenticador.validar(senha4);
+
     }
 }

@@ -1,4 +1,4 @@
-package lista1.exercicio_2;
+package lista_01.exercicio_02;
 
 public class Triangulo {
     public double lado1;

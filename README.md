@@ -33,9 +33,9 @@ As listas resolvidas neste repositório incluem temas como:
 
 ```
 📁 src(listas)/
-   ├── lista1/
-   ├── lista2/
-   ├── lista3/
+   ├── lista_01/
+   ├── lista_02/
+   ├── lista_03/
    └── ...
 ```
 

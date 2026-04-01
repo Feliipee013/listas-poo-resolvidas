@@ -1,4 +1,4 @@
-package lista1.exercicio_1;
+package lista_01.exercicio_01;
 
 public class SimuladorFinanciamento {
     public void analisarEmprestimo(double salario, double parcela) {

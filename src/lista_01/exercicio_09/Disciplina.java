@@ -1,4 +1,4 @@
-package lista1.exercicio_9;
+package lista_01.exercicio_09;
 
 public class Disciplina {
 

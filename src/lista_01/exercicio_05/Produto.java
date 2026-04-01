@@ -1,4 +1,4 @@
-package lista1.exercicio_5;
+package lista_01.exercicio_05;
 
 public class Produto {
     public String nome;

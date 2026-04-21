@@ -1,4 +1,4 @@
-package lista_02.exercicio_4;
+package lista_02.exercicio_04;
 
 public class LeitorNomes {
     public static void main(String[] args) {

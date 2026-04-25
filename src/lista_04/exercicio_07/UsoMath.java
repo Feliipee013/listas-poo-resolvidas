@@ -1,5 +1,5 @@
 package lista_04.exercicio_07;
-// importando importar todos os métodos estáticos da classe "Math"
+// importando todos os métodos estáticos da classe "Math"
 import static java.lang.Math.*;
 
 
